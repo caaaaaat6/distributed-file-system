@@ -1,0 +1,9 @@
+grpcio
+grpcio-tools
+redis~=4.5.5
+# ast # byDefault
+pyyaml==6.0
+# hashlib # byDefault
+lru-dict
+psutil~=5.9.5
+pysyncobj~=0.3.12
