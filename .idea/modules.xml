@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Distributed-File-Storage-System.iml" filepath="$PROJECT_DIR$/.idea/Distributed-File-Storage-System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Distributed-File-Storage-System-Remote.iml" filepath="$PROJECT_DIR$/.idea/Distributed-File-Storage-System-Remote.iml" />
     </modules>
   </component>
 </project>

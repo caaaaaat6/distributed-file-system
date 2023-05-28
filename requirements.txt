@@ -1,6 +1,7 @@
 grpcio
 grpcio-tools
-redis~=4.5.5
+# redis~=4.5.5
+redis~=4.3.6
 # ast # byDefault
 pyyaml==6.0
 # hashlib # byDefault
